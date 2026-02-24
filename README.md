@@ -49,7 +49,7 @@ A developer matchmaking platform.
 - Secure authentication & protected routes
 - Deployed with custom domain
 
----
+--- 
 
 ## 📈 What I'm Working On
 - Scalable backend architecture
