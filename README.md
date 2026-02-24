@@ -1,25 +1,62 @@
 # Hi, I'm Shiwangi 👋
 
-Frontend Developer with 3+ years of experience building scalable and performant web applications.
+Frontend Developer (3+ years) transitioning into Full Stack Development 🚀  
+Building scalable applications using modern web technologies.
 
-## 🚀 Tech Stack
+---
+
+## 🧑‍💻 Tech Stack
+
+### Frontend
 - React
-- Node.js
 - Next.js
 - TypeScript
 - Redux Toolkit
-- JavaScript (Advanced)
+- Advanced JavaScript
 - HTML / CSS
 
-## 🧠 Currently Learning
-- Advanced System Design (Frontend)
-- Performance Optimization
-- Scalable Architecture
+### Backend (Currently Expanding)
+- Node.js
+- Express.js
+- MongoDB
+- WebSockets (Real-time features)
+- AWS (SES, Deployment, Cloud Infrastructure)
 
-## 📌 Featured Projects
-- DevTinder – A developer matching platform
-- Portfolio Website
-- Real-time Dashboard App
+---
+
+## 🚀 Current Focus
+
+I'm actively moving towards Full Stack Engineering by:
+
+- Building backend APIs for **DevTinder**
+- Implementing authentication & secure JWT flows
+- Integrating AWS services (SES, deployment)
+- Implementing real-time features using WebSockets
+- Handling production deployment & domain setup
+
+---
+
+## 📌 Featured Project
+
+### 💡 DevTinder
+A developer matchmaking platform.
+
+**Highlights:**
+- React + TypeScript frontend
+- Node + Express backend
+- Real-time request updates using WebSockets
+- Email notifications using AWS SES
+- Secure authentication & protected routes
+- Deployed with custom domain
+
+---
+
+## 📈 What I'm Working On
+- Scalable backend architecture
+- System design (frontend + full stack)
+- Writing cleaner production-level code
+
+---
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/shiwangisingh2000/
