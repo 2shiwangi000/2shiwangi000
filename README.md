@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Shiwangi 👋
 
-<!--
-**2shiwangi000/2shiwangi000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer with 3+ years of experience building scalable and performant web applications.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- React
+- Node.js
+- Next.js
+- TypeScript
+- Redux Toolkit
+- JavaScript (Advanced)
+- HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Learning
+- Advanced System Design (Frontend)
+- Performance Optimization
+- Scalable Architecture
+
+## 📌 Featured Projects
+- DevTinder – A developer matching platform
+- Portfolio Website
+- Real-time Dashboard App
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/shiwangisingh2000/
+- Portfolio: -
